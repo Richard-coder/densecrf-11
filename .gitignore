@@ -1,0 +1,13 @@
+*~
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+supervoxel_clustering
+libfeature.a
+.vscode/settings.json
